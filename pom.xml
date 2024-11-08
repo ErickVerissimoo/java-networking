@@ -10,4 +10,13 @@
         <maven.compiler.release>21</maven.compiler.release>
         <exec.mainClass>com.corespring.javanetworking.JavaNetworking</exec.mainClass>
     </properties>
+    <dependencies>
+ <dependency>
+    <groupId>com.proofpoint.platform</groupId>
+    <artifactId>http-server</artifactId>
+    <version>3.23</version>
+</dependency>
+
+
+        </dependencies>  
 </project>

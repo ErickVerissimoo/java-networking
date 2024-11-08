@@ -1,3 +1,4 @@
-com/corespring/javanetworking/basics/Server.class
+com/corespring/javanetworking/basics/Servidor.class
 com/corespring/javanetworking/basics/app.class
-com/corespring/javanetworking/basics/client.class
+com/corespring/javanetworking/basics/tratarcliente.class
+com/corespring/javanetworking/basics/jeibos.class
