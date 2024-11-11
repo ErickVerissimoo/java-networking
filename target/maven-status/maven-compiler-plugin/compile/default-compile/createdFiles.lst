@@ -1,2 +1,6 @@
-com/corespring/javanetworking/basics/Servidor.class
-com/corespring/javanetworking/basics/Servidor2.class
+com/javanetworking/basics/Servidor2.class
+com/javanetworking/basics/newserver.class
+com/javanetworking/basics/Servidor.class
+com/javanetworking/basics/udp/Servidor.class
+com/javanetworking/basics/Router.class
+com/javanetworking/basics/soquete.class

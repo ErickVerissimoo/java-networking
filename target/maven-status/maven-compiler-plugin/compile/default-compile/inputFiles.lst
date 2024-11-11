@@ -1,2 +1,6 @@
-/home/gil/NetBeansProjects/javaNetworking/src/main/java/com/corespring/javanetworking/basics/Servidor.java
-/home/gil/NetBeansProjects/javaNetworking/src/main/java/com/corespring/javanetworking/basics/Servidor2.java
+/home/gil/NetBeansProjects/javaNetworking/src/main/java/com/javanetworking/basics/Router.java
+/home/gil/NetBeansProjects/javaNetworking/src/main/java/com/javanetworking/basics/Servidor.java
+/home/gil/NetBeansProjects/javaNetworking/src/main/java/com/javanetworking/basics/Servidor2.java
+/home/gil/NetBeansProjects/javaNetworking/src/main/java/com/javanetworking/basics/newserver.java
+/home/gil/NetBeansProjects/javaNetworking/src/main/java/com/javanetworking/basics/soquete.java
+/home/gil/NetBeansProjects/javaNetworking/src/main/java/com/javanetworking/basics/udp/Servidor.java
